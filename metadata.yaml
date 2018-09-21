@@ -1,5 +1,8 @@
 _repo: Time-and-Clocks-A-Description-of-Ancient-and-Modern-Methods-of-Measuring-Time_54546
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54546-h/images/cover.jpg
 creator:
   author:
     agent_name: Cunynghame, Henry H. (Henry Hardinge), Sir
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47916'
     url: http://www.gutenberg.org/2009/agents/47916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54546#Time-and-Clocks-A-Description-of-Ancient-and-Modern-Methods-of-Measuring-Time
 gutenberg_issued: '2017-04-13'
 gutenberg_type: Text
 identifiers:
